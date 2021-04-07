@@ -8,7 +8,7 @@ LLVM10_BUILDLINK3_MK:=
 BUILDLINK_API_DEPENDS.llvm10+=	llvm10>=10.0.1
 BUILDLINK_PKGSRCDIR.llvm10?=	../../tomtom/llvm10
 
-LLVM10_CONFIG_PATH?=		${BUILDLINK_PREFIX.llvm10}/bin/llvm-config
+LLVM10_CONFIG_PATH?=		${BUILDLINK_PREFIX.llvm10}/clang10/bin/llvm-config
 
 pkgbase := llvm10
 .include "../../mk/pkg-build-options.mk"
