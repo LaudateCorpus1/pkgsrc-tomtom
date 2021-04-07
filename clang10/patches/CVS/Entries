@@ -1,0 +1,7 @@
+/patch-lib_Basic_Targets_OSTargets.h/1.4/Sat Oct 19 13:54:29 2019//Tpkgsrc-2021Q1
+/patch-lib_Driver_ToolChain.cpp/1.1/Sun Nov  3 11:55:53 2019//Tpkgsrc-2021Q1
+/patch-lib_Driver_ToolChains_Solaris.cpp/1.6/Fri Jun  5 15:28:54 2020//Tpkgsrc-2021Q1
+/patch-lib_Driver_ToolChains_Solaris.h/1.3/Wed Jan 23 15:44:34 2019//Tpkgsrc-2021Q1
+/patch-lib_Frontend_InitHeaderSearch.cpp/1.2/Sun Dec  9 20:04:38 2018//Tpkgsrc-2021Q1
+/patch-tools_libclang_FatalErrorHandler.cpp/1.1/Sat Apr 18 07:53:38 2020//Tpkgsrc-2021Q1
+D
