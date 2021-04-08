@@ -1,0 +1,9 @@
+@comment $NetBSD: PLIST,v 1.2 2017/03/17 22:38:18 adam Exp $
+clang10/include/__libunwind_config.h
+clang10/include/libunwind.h
+clang10/include/mach-o/compact_unwind_encoding.h
+clang10/include/unwind.h
+clang10/lib/libunwind.a
+clang10/lib/libunwind.so
+clang10/lib/libunwind.so.1
+clang10/lib/libunwind.so.1.0

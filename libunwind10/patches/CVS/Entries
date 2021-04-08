@@ -1,0 +1,6 @@
+/patch-include_____libunwind__config.h/1.1/Sun Oct 18 17:06:35 2020//Tpkgsrc-2021Q1
+/patch-src_UnwindRegistersRestore.S/1.1/Sun Oct 18 17:06:35 2020//Tpkgsrc-2021Q1
+/patch-src_UnwindRegistersSave.S/1.1/Sun Oct 18 17:06:35 2020//Tpkgsrc-2021Q1
+/patch-src_config.h/1.1/Sun Oct 18 17:06:35 2020//Tpkgsrc-2021Q1
+/patch-src_libunwind.cpp/1.1/Sun Oct 18 17:06:35 2020//Tpkgsrc-2021Q1
+D
