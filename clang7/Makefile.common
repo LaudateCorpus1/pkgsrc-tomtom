@@ -9,7 +9,7 @@ DISTNAME=	cfe-${LLVM_VERSION}.src
 CATEGORIES=	lang devel
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
-HOMEPAGE=	http://clang.llvm.org/
+HOMEPAGE=	https://clang.llvm.org/
 COMMENT=	C language family frontend for LLVM
 LICENSE=	modified-bsd
 
