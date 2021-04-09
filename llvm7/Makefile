@@ -2,7 +2,6 @@
 #
 # when updating this, please also update:
 # devel/include-what-you-use
-# devel/lldb
 # devel/polly
 # lang/clang
 # lang/clang-static-analyzer
@@ -19,11 +18,11 @@
 # Always update all */buildlink3.mk to require the latest stable release
 # version in BUILDLINK_API_DEPENDS, as there is no backwards compatibility
 
-DISTNAME=	llvm-7.0.1.src
-PKGNAME=	llvm7-7.0.1
+.include "Makefile.common"
+
+DISTNAME=	llvm-${LLVM_VERSION}.src
+PKGNAME=	llvm7-${LLVM_VERSION}
 CATEGORIES=	lang devel
-MASTER_SITES=	http://llvm.org/releases/${PKGVERSION_NOREV}/
-EXTRACT_SUFX=	.tar.xz
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	http://llvm.org/

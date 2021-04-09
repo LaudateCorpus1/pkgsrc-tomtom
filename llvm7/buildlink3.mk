@@ -8,7 +8,7 @@ LLVM7_BUILDLINK3_MK:=
 BUILDLINK_API_DEPENDS.llvm7+=	llvm7>=7.0.0
 BUILDLINK_PKGSRCDIR.llvm7?=	../../tomtom/llvm7
 
-LLVM7_CONFIG_PATH?=		${BUILDLINK_PREFIX.llvm7}/clang7/bin/llvm-config
+LLVM_CONFIG_PATH?=		${BUILDLINK_PREFIX.llvm7}/clang7/bin/llvm-config
 
 pkgbase := llvm7
 .include "../../mk/pkg-build-options.mk"
