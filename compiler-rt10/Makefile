@@ -3,7 +3,7 @@
 .include "../../tomtom/llvm10/version.mk"
 
 DISTNAME=	compiler-rt-${LLVM_VERSION}.src
-PKGNAME=	${DISTNAME:S/.src//}
+PKGNAME=	compiler-rt10-${LLVM_VERSION}
 PKGREVISION=	1
 CATEGORIES=	lang devel
 
