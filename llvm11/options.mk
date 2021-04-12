@@ -1,6 +1,6 @@
 # $NetBSD: options.mk,v 1.7 2020/07/06 07:16:00 he Exp $
 
-PKG_OPTIONS_VAR=	PKG_OPTIONS.llvm10
+PKG_OPTIONS_VAR=	PKG_OPTIONS.llvm11
 
 LLVM_TARGETS=	AArch64 AMDGPU ARM BPF Hexagon Lanai Mips MSP430 NVPTX PowerPC RISCV Sparc SystemZ WebAssembly X86 XCore
 
