@@ -1,0 +1,12 @@
+$NetBSD: distinfo,v 1.28 2020/11/07 21:26:41 he Exp $
+
+SHA1 (llvm-11.1.0.src.tar.xz) = 89c1aabaca65f00fd03db1b69d65fa64fcb2b812
+RMD160 (llvm-11.1.0.src.tar.xz) = 4371e13aa42fe872b4c6ad2895f7a4aa648d6f08
+SHA512 (llvm-11.1.0.src.tar.xz) = 07bf9973384151a18d5cc2892103e5f28a88c632e8e49662fde56d123632f2ed1b3710fa7a87b6b821955d0ec44160ff36f2aa4f233e389e14d628e9bf8dc764
+Size (llvm-11.1.0.src.tar.xz) = 38915280 bytes
+SHA1 (patch-CMakeLists.txt) = 78e2dab2bf73f7e466ca2788fe6444e39b4ebd80
+SHA1 (patch-cmake_config-ix.cmake) = 61967c51d724a76867e1c59f721d1ac0e4815023
+SHA1 (patch-cmake_modules_AddLLVM.cmake) = 272a29c822c7570697ac03e7a2a178fc5cd101d3
+SHA1 (patch-include_llvm-c_DataTypes.h) = 025c035e0e10871727391bd58936bd67b3e58244
+SHA1 (patch-include_llvm_Analysis_ConstantFolding.h) = 56b9374da236c346565897977040255b9766cab8
+SHA1 (patch-tools_llvm-shlib_CMakeLists.txt) = 28f417bbfa17f2e644042350da5b98c07b834968
